@@ -1,0 +1,13 @@
+C:\Users\Olga\source\repos\hello_user\hello_user\bin\Debug\netcoreapp3.1\hello_user.exe
+C:\Users\Olga\source\repos\hello_user\hello_user\bin\Debug\netcoreapp3.1\hello_user.deps.json
+C:\Users\Olga\source\repos\hello_user\hello_user\bin\Debug\netcoreapp3.1\hello_user.runtimeconfig.json
+C:\Users\Olga\source\repos\hello_user\hello_user\bin\Debug\netcoreapp3.1\hello_user.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\hello_user\hello_user\bin\Debug\netcoreapp3.1\hello_user.dll
+C:\Users\Olga\source\repos\hello_user\hello_user\bin\Debug\netcoreapp3.1\hello_user.pdb
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.AssemblyInfo.cs
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.dll
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.pdb
+C:\Users\Olga\source\repos\hello_user\hello_user\obj\Debug\netcoreapp3.1\hello_user.genruntimeconfig.cache
