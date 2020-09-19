@@ -4,24 +4,24 @@ namespace hello__user
 {
     class Program
     {
-        static bool CheckData(int day, int month, int year)
+        static bool checkData (int day, int month, int year)
         {
-            bool FebCheck = true;
+            bool febCheck = true;
             if (month == 2)
             {
                 if (day > 28)
                 {
-                    if (day == 29 && year % 4 == 0)
+                    if ((day == 29) && (year % 4 == 0) || (year % 100 != 0 && year % 400 == 0))
                     {
-                        FebCheck = true;
+                        febCheck = true;
                     }
                     else
                     {
-                        FebCheck = false;
+                        febCheck = false;
                     }
                 }
             }
-            if (day > 0 && day <= 31 && month > 0 && month <= 12 && FebCheck == true)
+            if (day > 0 && day <= 31 && month > 0 && month <= 12 && febCheck == true)
             {
                 return true;
             }
@@ -52,7 +52,7 @@ namespace hello__user
                 month = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("В каком году ты родился?");
                 year = Convert.ToInt32(Console.ReadLine());
-                dataValid = CheckData(day, month, year);
+                dataValid = checkData(day, month, year);
                 ++cycleCount;
             }
             while (!dataValid);
